@@ -41,7 +41,7 @@ This is a picture of the current Wii U Menu and HOME Menu, which we want to move
 > ![A picture taken of the current Wii U Menu.](../assets/images/posts/the-downgrade-of-doom/current_wii_u_menu.png)
 > ![A picture taken of the current HOME Menu.](../assets/images/posts/the-downgrade-of-doom/current_home_menu.png)
 
-The most effective way to downgrade is through Gary's [UDPIH](https://github.com/GaryOderNichts/udpih) exploit. I had purchased a Raspberry Pi Pico back when I helped to test UDPIH, and I still find a lot of use out of it today.
+The most effective way to downgrade is through Gary's [UDPIH](https://github.com/GaryOderNichts/udpih) exploit. I had purchased a Raspberry Pi Pico back when I tested UDPIH before its release, and I still find a lot of use out of it today.
 
 Assuming all is well, we'll have access to the [Wii U Recovery Menu](https://github.com/GaryOderNichts/recovery_menu). We can now access the console early on enough where we can mess with things like the Wii U Menu in a "safe" manner. This menu has an option called `Start wupserver` that will allow us to connect with [wupclient](https://raw.githubusercontent.com/FIX94/iosuhax/master/wupserver/wupclient.py).
 
@@ -96,9 +96,9 @@ After all this, we still have one more step. Both Lazr and I were stuck because 
 
 We still had access to UDPIH, so we could dump our logs at least. We found that the boot process returned a very unhelpful code, `-262227`. We couldn't figure out what to do with it. Gary, the God of the homebrew scene himself, had an idea.
 
-After some reverse engineering that he made look incredibly easy, Gary concluded that we needed to edit a file, located at `/vol/system_slc/security/versions.bin`. For the sake of my own time, I ended up deleting the entire file. However, one should take the time to edit it properly since it might be important to keep.
+After some reverse engineering that he made look incredibly easy, Gary concluded that we needed to edit a file, located at `/vol/system_slc/security/versions.bin`. For the sake of my own time, I ended up deleting the entire file. However, one should take the time to [edit it properly](https://gbatemp.net/threads/how-to-edit-the-versions-bin-tutorial.601092) since it might be important to keep.
 
-Since I knew the file would regenerate (and this was on a testing unit), I just ran this.
+Since I was on a testing unit and I knew the file would regenerate, I just ran this.
 ```
 w.rm("/vol/system/security/versions.bin")
 ```
@@ -108,9 +108,9 @@ We're set! To my surprise, we didn't have to do anything further. We could reboo
 > ![A picture taken of the downgraded Wii U Menu.](../assets/images/posts/the-downgrade-of-doom/downgrade_wii_u_menu.png)
 > ![A picture taken of the downgraded HOME Menu.](../assets/images/posts/the-downgrade-of-doom/downgrade_home_menu.png)
 
-This method can be applied to more than just the Wii U Menu. The HOME Menu is actually a seperate application, and as I shown in my screenshots, it can be downgraded in just the same way. Other applications like System Settings can also be downgraded, so really it seems like almost anything is fair-game.
+This method can be applied to more than just the Wii U Menu. The HOME Menu is actually a seperate application, and as I've shown in my screenshots, it can be downgraded the same way. Other applications like System Settings can also be downgraded, so it seems like almost anything is on the table.
 
-Very crucial titles like OSv10 should be kept as is. I haven't messed with downgrading it, and that's for good reason. If it breaks, there is no easy way to fix it. I haven't found any reason I would need to yet anyway.
+Keep in mind that very crucial titles like OSv10 should be kept as is. I haven't messed with downgrading it, and that's for good reason. If it breaks, there is no easy way to fix it. I haven't found any reason I would need to yet anyway, so use your best judgement.
 
 Another thing to note is that there will be issues! This should not be used as a daily driver at all! Neither Aroma or Tiramisu work well from my experience, and I needed to revert my system titles back to the latest version in order to continue using them without bugs.
 
