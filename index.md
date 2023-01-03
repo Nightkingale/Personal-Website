@@ -2,8 +2,6 @@
 layout: home
 ---
 
-## About Section
-
 In summary, this website is a small project of mine which will have a bunch of random information I deem fun enough to have on here.
 
 In the [Posts](../posts) part of the website, I'll be writing blog posts about whatever I feel like. I wouldn't expect posts too often, but I'll try my best to make each one an interesting read.
