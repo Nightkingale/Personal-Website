@@ -95,7 +95,10 @@ blockquote {
 
 code {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
+  background: #191919;
   color:#efefef;
+  border-radius: 2px;
+  border:1px solid #121212;
   font-size:13px;
   margin: 0 4px;
   padding: 4px 6px;
@@ -139,12 +142,22 @@ td {
   border-bottom:1px solid #434343;
 }
 
-hr {
+hr,
+.header,
+.footer {
   border: 0;
   outline: none;
   height: 3px;
   background: transparent url('../images/other/hr.gif') center center repeat-x;
   margin: 0 0 20px;
+}
+
+.header {
+  margin: 0 0 -30px;
+}
+
+.footer {
+  margin: -60px 0 20px;
 }
 
 dt {
@@ -295,3 +308,4 @@ section {
     display: none;
   }
 }
+
