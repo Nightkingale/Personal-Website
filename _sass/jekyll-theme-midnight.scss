@@ -274,6 +274,12 @@ section {
   }
 }
 
+.banner {
+  background-color: rgb(74, 74, 37);
+  border: 2px solid rgb(147, 189, 32);
+  margin-bottom: 20px;
+}
+
 @media print, screen and (max-width: 720px) {
 
   #title {
