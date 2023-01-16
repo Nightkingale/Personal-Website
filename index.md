@@ -6,7 +6,7 @@ In summary, this website is a small project of mine which will have a bunch of r
 
 In the [Posts](../posts) part of the website, I'll be writing blog posts about whatever I feel like. I wouldn't expect posts too often, but I'll try my best to make each one an interesting read.
 
-If you're interested in learning how I made this website, the [Source](https://github.com/NoahAbc12345/noahabc12345.github.io) link in the navigation bar will take you to its GitHub repository. You can also click the [Discord](https://discord.gg/mYjeaZQ) link to join my server, Nincord. It's probably the best way to reach me.
+If you're interested in learning how I made this website, the [Source](https://github.com/Nightkingale/nightkingale.github.io) link in the navigation bar will take you to its GitHub repository. You can also click the [Discord](https://discord.gg/mYjeaZQ) link to join my server, Nincord. It's probably the best way to reach me.
 
 > ![A snapshot of my GitHub profile when this website was created.](./assets/images/about/github_page.png)
 
@@ -36,9 +36,9 @@ Nintendo obviously doesn't intend for people to mod their consoles, but I only s
 
 Besides this website, my currently supported projects are as follows:
 
-* [Raichu](https://github.com/NoahAbc12345/Raichu), a Discord utility bot for the Nincord server.
-* [Button Break](https://github.com/NoahAbc12345/Button-Break), a game that tests the buttons on a Wii U GamePad. 
-* [WUHB Packager](https://github.com/NoahAbc12345/WUHB-Packager), a Wii U homebrew packager for use with Aroma.
-* [Coffee Reading](https://github.com/NoahAbc12345/Coffee-Reading), a command-line tool for reading a Wii U OTP/SEEPROM.
+* [Raichu](https://github.com/Nightkingale/Raichu), a Discord utility bot for the Nincord server.
+* [Button Break](https://github.com/Nightkingale/Button-Break), a game that tests the buttons on a Wii U GamePad. 
+* [WUHB Packager](https://github.com/Nightkingale/WUHB-Packager), a Wii U homebrew packager for use with Aroma.
+* [Coffee Reading](https://github.com/Nightkingale/Coffee-Reading), a command-line tool for reading a Wii U OTP/SEEPROM.
 
 I have many more ideas for projects in the future, so be sure to keep checking out this website and my social medias for more information!
