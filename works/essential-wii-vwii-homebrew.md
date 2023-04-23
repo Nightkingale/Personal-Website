@@ -20,7 +20,7 @@ This will allow you to install forwarders, homebrew, and even official channels 
 
 Check out the [GitHub page](https://github.com/FIX94/Some-YAWMM-Mod) for the source code and downloads!
 
-![A screenshot showcasing Some YAWMM Mod.](../assets/images/posts/essential-wii-vwii-homebrew/some_yawmm_mod.png)
+![A screenshot showcasing Some YAWMM Mod.](../assets/images/works/essential-wii-vwii-homebrew/some_yawmm_mod.png)
 
 ### USB Loader GX
 
@@ -30,7 +30,7 @@ You can plug in a hard drive, dump your favorite games to it, and then play them
 
 Check out the [SourceForge page](https://sourceforge.net/projects/usbloadergx) for the source code and downloads!
 
-![A screenshot showcasing USB Loader GX.](../assets/images/posts/essential-wii-vwii-homebrew/usb_loader_gx.png)
+![A screenshot showcasing USB Loader GX.](../assets/images/works/essential-wii-vwii-homebrew/usb_loader_gx.png)
 
 ### WiiMC
 
@@ -40,4 +40,4 @@ You can even plug in a disc reader and watch DVDs, even if you're using vWii or 
 
 Check out the [GitHub page](https://github.com/dborth/wiimc) for the source code and downloads!
 
-![A screenshot showcasing WiiMC.](../assets/images/posts/essential-wii-vwii-homebrew/wiimc.png)
+![A screenshot showcasing WiiMC.](../assets/images/works/essential-wii-vwii-homebrew/wiimc.png)

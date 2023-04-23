@@ -4,7 +4,7 @@ layout: home
 
 In summary, this website is a small project of mine which will have a bunch of random information I deem fun enough to have on here.
 
-In the [Posts](../posts) part of the website, I'll be writing blog posts about whatever I feel like. I wouldn't expect posts too often, but I'll try my best to make each one an interesting read.
+In the [Posts](../works) part of the website, I'll be writing blog posts about whatever I feel like. I wouldn't expect posts too often, but I'll try my best to make each one an interesting read.
 
 If you're interested in learning how I made this website, the [Source](https://github.com/Nightkingale/Personal-Website) link in the navigation bar will take you to its GitHub repository. You can also click the [Discord](https://discord.gg/mYjeaZQ) link to join my server, Nincord. It's probably the best way to reach me.
 

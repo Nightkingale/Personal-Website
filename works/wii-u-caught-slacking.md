@@ -18,11 +18,11 @@ None of this is anywhere near as dangerous as what I happened to do to my own co
 
 I got really bored. I assumed that the worst that could happen to my vWii is that it wouldn't boot anymore. A tool like vWii Decaffeinator could restore things back should something go wrong, or I can just supply a NAND backup.
 
-![A screenshot of a conversation with Lazr1026.](../assets/images/posts/wii-u-caught-slacking/conversation_of_inevitable_doom.png)
+![A screenshot of a conversation with Lazr1026.](../assets/images/works/wii-u-caught-slacking/conversation_of_inevitable_doom.png)
 
 Alright, no big deal I guess. I'll just restore an old backup I made of my vWii NAND.
 
-![Me showing off how my Wii U won't turn on anymore.](../assets/images/posts/wii-u-caught-slacking/death_of_big_bertha.png)
+![Me showing off how my Wii U won't turn on anymore.](../assets/images/works/wii-u-caught-slacking/death_of_big_bertha.png)
 
 It turns out that if you don't want your Wii U to turn on ever again, just replace the vWii `/sys/uid.sys` file on the NAND with a singular byte.
 
@@ -45,11 +45,11 @@ As usual, the rest of the Bad Time Trio, [GaryOderNichts](https://github.com/Gar
 
 Despite my best efforts, I am not at all good at reverse-engineering stuff, let alone the IOSU. This is a very brief explanation from Gary about what happened when he replicated it on his console equipped with isfshax.
 
-![Me showing off how my Wii U won't turn on anymore.](../assets/images/posts/wii-u-caught-slacking/gary_error_explanation.png)
+![Me showing off how my Wii U won't turn on anymore.](../assets/images/works/wii-u-caught-slacking/gary_error_explanation.png)
 
 As I understand it, Nintendo didn't quite account for every scenario. If `/sys/uid.sys` doesn't exist, it will be created on boot. However, if it does exist but isn't large enough, it will try to parse it and look for a byte which doesn't exist. They probably didn't think about this because it shouldn't normally be possible for the file to be a single byte. However, if it was to happen, that entire thread would stop and leave the console hanging.
 
-![The code from IOSU where the sys/uid.sys is parsed.](../assets/images/posts/wii-u-caught-slacking/iosu_parsing_code.png)
+![The code from IOSU where the sys/uid.sys is parsed.](../assets/images/works/wii-u-caught-slacking/iosu_parsing_code.png)
 
 It's quite scary how such a small oversight could be so devastating! I wasn't sure what I was expecting when messing with system files, but it crashed the console so early in the boot process that even the boot logo didn't show up.
 
