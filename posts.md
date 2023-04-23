@@ -6,9 +6,9 @@ layout: posts
 
 Want some stuff to read in your spare time? Here you go!
 
-### Nintendo Wii / Wii U
+### Blog Posts
 
-A section of posts about the best video game consoles.
+A section of posts about the best video game console.
 
 * [Essential Wii/vWii Homebrew](../posts/essential-wii-vwii-homebrew) (10/29/2022)
 * A short list outlining awesome homebrew for a modified Wii console or vWii mode.
@@ -18,3 +18,16 @@ A section of posts about the best video game consoles.
 
 * [Wii U Caught Slacking](../posts/wii-u-caught-slacking) (01/03/2023)
 * A short story describing how I managed to brick a Wii U in an unusual way.
+
+### Discography
+
+A section of links to each of my released singles.
+
+* [V-Bucks for Some Skins](https://push.fm/fl/v-bucks-for-some-skins) (01/03/2023)
+* My first song about being addicted to Fortnite and purchasing V-Bucks.
+
+* [Wii U USB Helper](https://push.fm/fl/wii-u-usb-helper) (02/04/2023)
+* My most popular song, about the piracy tool of the same name.
+
+* [Well Shit, What a Vibe](https://push.fm/fl/well-shit-what-a-vibe) (03/02/2023)
+* A song about vibing, dolphins, and a whole lot of randomness.
