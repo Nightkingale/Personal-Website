@@ -40,5 +40,6 @@ Besides this website, my currently supported projects are as follows:
 * [Button Break](https://github.com/Nightkingale/Button-Break), a game that tests the buttons on a Wii U GamePad. 
 * [WUHB Packager](https://github.com/Nightkingale/WUHB-Packager), a Wii U homebrew packager for use with Aroma.
 * [Coffee Reading](https://github.com/Nightkingale/Coffee-Reading), a command-line tool for reading a Wii U OTP/SEEPROM.
+* [Wii U Time Sync](https://github.com/Nightkingale/Wii-U-Time-Sync), a plugin that synchronizes a Wii U's clock to the Internet.
 
 I have many more ideas for projects in the future, so be sure to keep checking out this website and my social medias for more information!
