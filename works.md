@@ -31,3 +31,6 @@ A section of links to each of my released singles.
 
 * [Well Shit, What a Vibe](https://push.fm/fl/well-shit-what-a-vibe) (03/02/2023)
 * A song about vibing, dolphins, and a whole lot of randomness.
+
+* [I'm on My Tractor](https://push.fm/fl/im-on-my-tractor) (06/29/2023)
+* My return to meme rapping, including tractors and velociraptors.
