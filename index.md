@@ -10,7 +10,7 @@ In the [Posts](../posts) part of the website, I'll be writing blog posts about w
 
 If you're interested in learning how I made this website, the [Source](https://github.com/Nightkingale/Personal-Website) link in the navigation bar will take you to its GitHub repository. You can also click the [Discord](https://discord.gg/mYjeaZQ) link to join my server, Nincord. It's probably the best way to reach me.
 
-> ![A snapshot of my GitHub profile when this website was created.](./assets/images/about/github_page.png)
+![A snapshot of my GitHub profile when this website was created.](./assets/images/about/github_page.png)
 
 ## Introduction
 
@@ -32,4 +32,4 @@ Nowadays, I spend most of my time researching the Wii U and its backwards-compat
 
 Nintendo obviously doesn't intend for people to mod their consoles, but I only see it as an advantage to rebel against them. They don't really listen to us anyway...
 
-> ![A fake Nintendo Wii U brick screen I made back when the pandemic started.](./assets/images/about/funny_brick.png)
+![A fake Nintendo Wii U brick screen I made back when the pandemic started.](./assets/images/about/funny_brick.png)
