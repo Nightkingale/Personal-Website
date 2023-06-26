@@ -24,7 +24,7 @@ I also remember a now-deleted video by another YouTube channel, [Quick Bell Hack
 
 The issue with that video is there was no real explanation. A lot of people were left curious, which leads them to test things they probably shouldn't be. On top of that, it seemed to involve Nintendo SDK tools that most people won't legally have access to, like the System Config Tool.
 
-![A picture taken of the System Config Tool.](../assets/images/works/the-downgrade-of-doom/system_config_tool.png)
+![A picture taken of the System Config Tool.](../assets/images/posts/the-downgrade-of-doom/system_config_tool.png)
 
 Despite the beef that they have with me for whatever reason, I must give credit that Quick Bell Hacker is the first person I know of to successfully downgrade their Wii U Menu. However, I don't think it was fair for so many people to be left confused the way that video did, so I got together with two of my best friends to replicate it.
 
@@ -36,8 +36,8 @@ Lazr did a great deal of experimenting alongside me, testing things I couldn't a
 
 This is a picture of the current Wii U Menu and HOME Menu, which we want to move from.
 
-![A picture taken of the current Wii U Menu.](../assets/images/works/the-downgrade-of-doom/current_wii_u_menu.png)
-![A picture taken of the current HOME Menu.](../assets/images/works/the-downgrade-of-doom/current_home_menu.png)
+![A picture taken of the current Wii U Menu.](../assets/images/posts/the-downgrade-of-doom/current_wii_u_menu.png)
+![A picture taken of the current HOME Menu.](../assets/images/posts/the-downgrade-of-doom/current_home_menu.png)
 
 The most effective way to downgrade is through Gary's [UDPIH](https://github.com/GaryOderNichts/udpih) exploit. I had purchased a Raspberry Pi Pico back when I tested UDPIH before its release, and I still find a lot of use out of it today.
 
@@ -90,7 +90,7 @@ install_title("install/tmp_0005001010040100_v24")
 
 After all this, we still have one more step. Both Lazr and I were stuck because we kept on failing to boot. We got an error, being 160-0103. I even managed to get the error screen to be blue!
 
-![A picture of my special blue screen of death.](../assets/images/works/the-downgrade-of-doom/blue_screen_of_death.png)
+![A picture of my special blue screen of death.](../assets/images/posts/the-downgrade-of-doom/blue_screen_of_death.png)
 
 We still had access to UDPIH, so we could dump our logs at least. We found that the boot process returned a very unhelpful code, `-262227`. We couldn't figure out what to do with it. Gary, the God of the homebrew scene himself, had an idea.
 
@@ -103,8 +103,8 @@ w.rm("/vol/system/security/versions.bin")
 
 We're set! To my surprise, we didn't have to do anything further. We could reboot and properly access our newly-installed but out-of-date Wii U Menu!
 
-![A picture taken of the downgraded Wii U Menu.](../assets/images/works/the-downgrade-of-doom/downgrade_wii_u_menu.png)
-![A picture taken of the downgraded HOME Menu.](../assets/images/works/the-downgrade-of-doom/downgrade_home_menu.png)
+![A picture taken of the downgraded Wii U Menu.](../assets/images/posts/the-downgrade-of-doom/downgrade_wii_u_menu.png)
+![A picture taken of the downgraded HOME Menu.](../assets/images/posts/the-downgrade-of-doom/downgrade_home_menu.png)
 
 This method can be applied to more than just the Wii U Menu. The HOME Menu is actually a seperate application, and as I've shown in my screenshots, it can be downgraded the same way. Other applications like System Settings can also be downgraded, so it seems like almost anything is on the table.
 

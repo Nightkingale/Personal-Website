@@ -4,7 +4,9 @@ layout: home
 
 In summary, this website is a small project of mine which will have a bunch of random information I deem fun enough to have on here.
 
-In the [Posts](../works) part of the website, I'll be writing blog posts about whatever I feel like. I wouldn't expect posts too often, but I'll try my best to make each one an interesting read.
+In the [Works](../works) part of the website, I have a list of all of the projects I've been involved with throughout my time as a programmer. I also included my discography on that page, just for fun.
+
+In the [Posts](../posts) part of the website, I'll be writing blog posts about whatever I feel like. I wouldn't expect posts too often, but I'll try my best to make each one an interesting read.
 
 If you're interested in learning how I made this website, the [Source](https://github.com/Nightkingale/Personal-Website) link in the navigation bar will take you to its GitHub repository. You can also click the [Discord](https://discord.gg/mYjeaZQ) link to join my server, Nincord. It's probably the best way to reach me.
 
@@ -31,15 +33,3 @@ Nowadays, I spend most of my time researching the Wii U and its backwards-compat
 Nintendo obviously doesn't intend for people to mod their consoles, but I only see it as an advantage to rebel against them. They don't really listen to us anyway...
 
 > ![A fake Nintendo Wii U brick screen I made back when the pandemic started.](./assets/images/about/funny_brick.png)
-
-## Current Projects
-
-Besides this website, my currently supported projects are as follows:
-
-* [Raichu](https://github.com/Nightkingale/Raichu), a Discord utility bot for the Nincord server.
-* [Button Break](https://github.com/Nightkingale/Button-Break), a game that tests the buttons on a Wii U GamePad. 
-* [WUHB Packager](https://github.com/Nightkingale/WUHB-Packager), a Wii U homebrew packager for use with Aroma.
-* [Coffee Reading](https://github.com/Nightkingale/Coffee-Reading), a command-line tool for reading a Wii U OTP/SEEPROM.
-* [Wii U Time Sync](https://github.com/Nightkingale/Wii-U-Time-Sync), a plugin that synchronizes a Wii U's clock to the Internet.
-
-I have many more ideas for projects in the future, so be sure to keep checking out this website and my social medias for more information!
