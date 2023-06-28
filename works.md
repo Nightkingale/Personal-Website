@@ -42,14 +42,17 @@ A section of links to other projects I've worked on within my teams.
 
 A section of links to each of my released meme rap singles.
 
-* [V-Bucks for Some Skins](https://push.fm/fl/v-bucks-for-some-skins) (01/03/2023)
+* [V-Bucks for Some Skins](https://push.fm/fl/vbfss) (01/03/2023)
 * My song about being addicted to Fortnite and purchasing V-Bucks.
 
-* [Wii U USB Helper](https://push.fm/fl/wii-u-usb-helper) (02/04/2023)
+* [Wii U USB Helper](https://push.fm/fl/wuub) (02/04/2023)
 * My most popular song, about the piracy tool of the same name.
 
-* [Well Shit, What a Vibe](https://push.fm/fl/well-shit-what-a-vibe) (03/02/2023)
+* [Well Shit, What a Vibe](https://push.fm/fl/wswav) (03/02/2023)
 * A song about vibing, dolphins, and a whole lot of randomness.
 
-* [I'm on My Tractor](https://push.fm/fl/im-on-my-tractor) (06/28/2023)
+* [I'm on My Tractor](https://push.fm/fl/iomt) (06/28/2023)
 * My return to meme rapping, including tractors and velociraptors.
+
+* ??? (July 2023)
+* A diss track on Nintendo from me, GaryOderNichts, and Lazr1026.
