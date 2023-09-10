@@ -54,5 +54,5 @@ A section of links to each of my released meme rap singles.
 * [I'm on My Tractor](https://push.fm/fl/iomt) (06/28/2023)
 * My return to meme rapping, including tractors and velociraptors.
 
-* [Shopping for Free](https//push.fm/fl/sff) (07/19/2023)
+* [Shopping for Free](https://push.fm/fl/sff) (07/19/2023)
 * Another fun diss track on Nintendo, featuring Lazr1026.
