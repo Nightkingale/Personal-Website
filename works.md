@@ -40,7 +40,22 @@ A section of links to other projects I've worked on within my teams.
 
 ### Discography
 
-A section of links to each of my released meme rap singles.
+A section of links to each of my released meme rap songs.
+
+**Albums (the Heavenly Night era):**
+
+* [Heavenly Night](https://www.youtube.com/watch?v=OfCEC1uGNnQ) (01/03/2024)
+* Scrapped singles and new tracks! My insane writing in one package.
+* Featuring a total of seven tracks, stay tuned for announcements:
+    * Heavenly Night
+    * ???
+    * Stole Your Lass
+    * ???
+    * ???
+    * ???
+    * Pretend to Be Me
+
+**Singles (the Meme Trilogy Deluxe era):**
 
 * [V-Bucks for Some Skins](https://push.fm/fl/vbfss) (01/03/2023)
 * My song about being addicted to Fortnite and purchasing V-Bucks.
