@@ -48,11 +48,11 @@ A section of links to each of my released meme rap songs.
 * Scrapped singles and new tracks! My insane writing in one package.
 * Featuring a total of seven tracks, stay tuned for announcements:
     * Heavenly Night
-    * ???
+    * Craft a Hoe (feat. Lazr1026)
     * Stole Your Lass
-    * ???
-    * ???
-    * ???
+    * Fuego, No Hielo
+    * Flexing My Bands
+    * Lost Without Trust
     * Pretend to Be Me
 
 **Singles (the Meme Trilogy Deluxe era):**
