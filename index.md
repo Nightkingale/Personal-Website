@@ -24,12 +24,21 @@ I began to pick up programming as a hobby during lockdown. I taught myself the b
 
 I also became interested in tinkering with video-game consoles, primarily the Nintendo Wii U. I spent a lot of time learning how the console worked, and I would teach others online through Discord how to modify their own consoles. I used to even be a writer for the holy bible of Wii U modding, the [Wii U hacking guide](https://wiiu.hacks.guide)!
 
-Along the way, I met great friends who still support me today, like [GaryOderNichts](https://github.com/GaryOderNichts), [Lazr1026](https://github.com/Lazr1026), and [NicoAICP](https://github.com/NicoAICP). I also have a Discord server filled with even more amazing people, and I'm so happy to have met each and every one of them.
-
-## Current Work
-
-Nowadays, I spend most of my time researching the Wii U and its backwards-compatibility mode (which many call the vWii). The original Wii is very nostalgic to me, and I love experimenting with it to find out new things that many people overlook. Its games are amazing, and the hardware is just so innovative!
-
 Nintendo obviously doesn't intend for people to mod their consoles, but I only see it as an advantage to rebel against them. They don't really listen to us anyway...
 
 ![A fake Nintendo Wii U brick screen I made back when the pandemic started.](./assets/images/about/funny_brick.png)
+
+
+Along my journey though, I met great friends who still support me today, like [GaryOderNichts](https://github.com/GaryOderNichts), [Lazr1026](https://github.com/Lazr1026), and [NicoAICP](https://github.com/NicoAICP). I also have a Discord server filled with even more amazing people, and I'm so happy to have met each and every one of them.
+
+## Current Work
+
+Nowadays, I don't really involve myself in the homebrew scene as much as I used to. A lot of people know me for maintaining the [Homebrew App Store](https://github.com/fortheusers/hb-appstore) still, and a few core homebrew projects, but outside of a bit of experimentation with the Wii U and Wii sometimes, that's largely it for me anymore.
+
+I am currently pursuing a degree in computer information systems (with a concentration of cyber security) at Central New Mexico Community College. I was actually really inspired by the homebrew scene (and especially my friend, Gary) to go this path.
+
+On the side, I'm a meme rapper (if you couldn't tell yet) and a school teacher, which is definitely an interesting mix of things to be. I couldn't ask for a better life though!
+
+Side note, check out my Heavenly Night album when it releases on January 3rd, 2024!
+
+![Promotional artwork for the Heavenly Night album.](./assets/images/about/heavenly_night.png)
