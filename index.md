@@ -38,7 +38,3 @@ Nowadays, I don't really involve myself in the homebrew scene as much as I used 
 I am currently pursuing a degree in computer information systems (with a concentration of cyber security) at Central New Mexico Community College. I was actually really inspired by the homebrew scene (and especially my friend, Gary) to go this path.
 
 On the side, I'm a meme rapper (if you couldn't tell yet) and a school teacher, which is definitely an interesting mix of things to be. I couldn't ask for a better life though!
-
-Side note, check out my Heavenly Night album when it releases on January 3rd, 2024!
-
-![Promotional artwork for the Heavenly Night album.](./assets/images/about/heavenly_night.png)
