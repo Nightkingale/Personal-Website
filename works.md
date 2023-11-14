@@ -44,16 +44,17 @@ A section of links to each of my released meme rap songs.
 
 **Albums (the Heavenly Night era):**
 
-* [Heavenly Night](https://www.youtube.com/watch?v=OfCEC1uGNnQ) (01/03/2024)
+* [Heavenly Night](https://push.fm/fl/hn) (01/03/2024)
 * Scrapped singles and new tracks! My insane writing in one package.
+* Check out my SoundCloud every two weeks for an early drop, ahead of release!
 * Featuring a total of seven tracks, stay tuned for announcements:
-    * Heavenly Night
-    * Craft a Hoe (feat. Lazr1026)
-    * Stole Your Lass
-    * Fuego, No Hielo
-    * Flexing My Bands
-    * Lost Without Trust
-    * Pretend to Be Me
+    * [Heavenly Night](https://soundcloud.com/nightkingale/heavenly-night?in=nightkingale/sets/heavenly-night)
+    * [Craft a Hoe (feat. Lazr1026)](https://soundcloud.com/nightkingale/craft-a-hoe?in=nightkingale/sets/heavenly-night)
+    * [Stole Your Lass](https://soundcloud.com/nightkingale/stole-your-lass?in=nightkingale/sets/heavenly-night)
+    * [Fuego, No Hielo](https://soundcloud.com/nightkingale/fuego-no-hielo?in=nightkingale/sets/heavenly-night) (early dropping 11/22/2023)
+    * [Counting My Bands](https://soundcloud.com/nightkingale/counting-my-bands?in=nightkingale/sets/heavenly-night) (early dropping 12/06/2023)
+    * [Lost Without Trust](https://soundcloud.com/nightkingale/lost-without-trust?in=nightkingale/sets/heavenly-night) (early dropping 12/20/2023)
+    * [Pretend to Be Me](https://soundcloud.com/nightkingale/pretend-to-be-me?in=nightkingale/sets/heavenly-night) (available on official release)
 
 **Singles (the Meme Trilogy Deluxe era):**
 
