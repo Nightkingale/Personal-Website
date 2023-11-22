@@ -42,12 +42,12 @@ A section of links to other projects I've worked on within my teams.
 
 A section of links to each of my released meme rap songs.
 
-**The Next Generation era:**
+**Generation 2, The Next Generation:**
 
 * More information coming alongside the Heavenly Night release!
 * ??? (coming soon)
 
-**Heavenly Night era:**
+**Generation 1, Meme Trilogy Deluxe:**
 
 * [Heavenly Night](https://push.fm/fl/hn) (01/03/2024)
 * Scrapped singles and new tracks! My insane writing in one package.
@@ -60,20 +60,18 @@ A section of links to each of my released meme rap songs.
     * [Counting My Bands](https://soundcloud.com/nightkingale/counting-my-bands?in=nightkingale/sets/heavenly-night) (early dropping 12/06/2023)
     * [Lost Without Trust](https://soundcloud.com/nightkingale/lost-without-trust?in=nightkingale/sets/heavenly-night) (early dropping 12/20/2023)
     * [Pretend to Be Me](https://soundcloud.com/nightkingale/pretend-to-be-me?in=nightkingale/sets/heavenly-night) (available on official release)
-
-**Meme Trilogy Deluxe era:**
-
-* [V-Bucks for Some Skins](https://push.fm/fl/vbfss) (01/03/2023)
-* My song about being addicted to Fortnite and purchasing V-Bucks.
-
-* [Wii U USB Helper](https://push.fm/fl/wuub) (02/04/2023)
-* My most popular song, about the piracy tool of the same name.
-
-* [Well Shit, What a Vibe](https://push.fm/fl/wswav) (03/02/2023)
-* A song about vibing, dolphins, and a whole lot of randomness.
+    
+* [Shopping for Free](https://push.fm/fl/sff) (07/19/2023)
+* Another fun diss track on Nintendo, featuring Lazr1026.
 
 * [I'm on My Tractor](https://push.fm/fl/iomt) (06/28/2023)
 * My return to meme rapping, including tractors and velociraptors.
 
-* [Shopping for Free](https://push.fm/fl/sff) (07/19/2023)
-* Another fun diss track on Nintendo, featuring Lazr1026.
+* [Well Shit, What a Vibe](https://push.fm/fl/wswav) (03/02/2023)
+* A song about vibing, dolphins, and a whole lot of randomness.
+
+* [Wii U USB Helper](https://push.fm/fl/wuub) (02/04/2023)
+* My most popular song, about the piracy tool of the same name.
+
+* [V-Bucks for Some Skins](https://push.fm/fl/vbfss) (01/03/2023)
+* My song about being addicted to Fortnite and purchasing V-Bucks.
