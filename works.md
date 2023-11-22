@@ -42,7 +42,12 @@ A section of links to other projects I've worked on within my teams.
 
 A section of links to each of my released meme rap songs.
 
-**Albums (the Heavenly Night era):**
+**The Next Generation era:**
+
+* More information coming alongside the Heavenly Night release!
+* ??? (coming soon)
+
+**Heavenly Night era:**
 
 * [Heavenly Night](https://push.fm/fl/hn) (01/03/2024)
 * Scrapped singles and new tracks! My insane writing in one package.
@@ -51,12 +56,12 @@ A section of links to each of my released meme rap songs.
     * [Heavenly Night](https://soundcloud.com/nightkingale/heavenly-night?in=nightkingale/sets/heavenly-night)
     * [Craft a Hoe (feat. Lazr1026)](https://soundcloud.com/nightkingale/craft-a-hoe?in=nightkingale/sets/heavenly-night)
     * [Stole Your Lass](https://soundcloud.com/nightkingale/stole-your-lass?in=nightkingale/sets/heavenly-night)
-    * [Fuego, No Hielo](https://soundcloud.com/nightkingale/fuego-no-hielo?in=nightkingale/sets/heavenly-night) (early dropping 11/22/2023)
+    * [Fuego, No Hielo](https://soundcloud.com/nightkingale/fuego-no-hielo?in=nightkingale/sets/heavenly-night)
     * [Counting My Bands](https://soundcloud.com/nightkingale/counting-my-bands?in=nightkingale/sets/heavenly-night) (early dropping 12/06/2023)
     * [Lost Without Trust](https://soundcloud.com/nightkingale/lost-without-trust?in=nightkingale/sets/heavenly-night) (early dropping 12/20/2023)
     * [Pretend to Be Me](https://soundcloud.com/nightkingale/pretend-to-be-me?in=nightkingale/sets/heavenly-night) (available on official release)
 
-**Singles (the Meme Trilogy Deluxe era):**
+**Meme Trilogy Deluxe era:**
 
 * [V-Bucks for Some Skins](https://push.fm/fl/vbfss) (01/03/2023)
 * My song about being addicted to Fortnite and purchasing V-Bucks.
