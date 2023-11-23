@@ -2,11 +2,11 @@
 layout: works
 ---
 
-## Works Section
+# Works Section
 
 A comprehensive list of both my coding-related projects, as well as my music.
 
-### Personal Projects
+## Personal Projects
 
 A section of links to projects related to me, besides the website.
 
@@ -25,7 +25,7 @@ A section of links to projects related to me, besides the website.
 * [WUHB Packager](https://github.com/Nightkingale/WUHB-Packager)
 * A homebrew packager for use with the Wii U's latest environment, Aroma. It serves as wrapper to wuhbtool, and has the ultimate goal of helping developers migrate their old applications to the latest format. 
 
-### Other Projects
+## Other Projects
 
 A section of links to other projects I've worked on within my teams.
 
@@ -38,16 +38,16 @@ A section of links to other projects I've worked on within my teams.
 * [Wii U Hacks Guide](https://wiiu.hacks.guide/) (as part of Nintendo Homebrew)
 * A beginners' homebrew guide written by skilled Wii U enthusiasts.
 
-### Discography
+## Discography
 
 A section of links to each of my released meme rap songs.
 
-**Generation 2, The Next Generation:**
+### Generation 2, The Next Generation
 
 * More information coming alongside the Heavenly Night release!
 * ??? (coming soon)
 
-**Generation 1, Meme Trilogy Deluxe:**
+### Generation 1, Meme Trilogy Deluxe
 
 * [Heavenly Night](https://push.fm/fl/hn) (01/03/2024)
 * Scrapped singles and new tracks! My insane writing in one package.

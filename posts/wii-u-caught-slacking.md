@@ -2,7 +2,7 @@
 layout: posts
 ---
 
-## Wii U Caught Slacking
+# Wii U Caught Slacking
 
 Back when I was active on the Nintendo Homebrew server, I witnessed many people who had bricked their Wii Us in the most interesting ways.
 
@@ -14,7 +14,7 @@ Nowadays, I would argue that Wii U hacking is much safer overall. There's still 
 
 None of this is anywhere near as dangerous as what I happened to do to my own console.
 
-### I Did a Little Trolling
+## I Did a Little Trolling
 
 I got really bored. I assumed that the worst that could happen to my vWii is that it wouldn't boot anymore. A tool like vWii Decaffeinator could restore things back should something go wrong, or I can just supply a NAND backup.
 
@@ -28,7 +28,7 @@ It turns out that if you don't want your Wii U to turn on ever again, just repla
 
 Why did I do it? A joke.
 
-### A Well-Deserved Brick
+## A Well-Deserved Brick
 
 To make it clear, I actually have two Wii Us. One of which is much more loved than the other, but both are cared for enough to be named. I don't know why I named them either, but the idea just happened to stick with me for these two consoles in particular.
 
@@ -39,7 +39,7 @@ Can you guess which one I bricked? If you said Shaniqua, you're wrong.
 
 I would argue that I have very much more experience exploring the Wii side of things compared to the Wii U. I genuinely thought nothing could go wrong by messing with this file. Curiosity kills the cat, I guess!
 
-### Nintendo Sucks at Coding
+## Nintendo Sucks at Coding
 
 As usual, the rest of the Bad Time Trio, [GaryOderNichts](https://github.com/GaryOderNichts) and [Lazr1026](https://github.com/Lazr1026), came to save the day!
 
@@ -53,7 +53,7 @@ As I understand it, Nintendo didn't quite account for every scenario. If `/sys/u
 
 It's quite scary how such a small oversight could be so devastating! I wasn't sure what I was expecting when messing with system files, but it crashed the console so early in the boot process that even the boot logo didn't show up.
 
-### UDPIH Saves the Day
+## UDPIH Saves the Day
 
 After the brick happened, I woke up very early the next morning to start brainstorming. Gary and I sat in a voice chat on Discord and bounced ideas off each other.
 
@@ -63,7 +63,7 @@ Thankfully, it worked after a decent amount of trial and error! I replaced the f
 
 I would really like to share the modified files which had fixed my brick, however I won't be hosting them on this site for now. In the future, I may host this and other files on a OneDrive, but if you see me around on Discord, I'd be more than happy to send you what I have.
 
-### That's All She Wrote
+## That's All She Wrote
 
 All in all, it would technically be possible to brick your entire Wii U just from the vWii side. Honestly, it's pretty frightening to think about. That being said, don't mess with system files! This is what happens when you do!
 

@@ -2,7 +2,7 @@
 layout: posts
 ---
 
-## Essential Wii/vWii Homebrew
+# Essential Wii/vWii Homebrew
 
 The Nintendo Wii is notable for having a massive community that supports the console with homebrew, even after Nintendo discontinued most Wii-related services.
 
@@ -12,7 +12,7 @@ If you want to modify your Wii, follow the [Wii guide](https://wii.guide). For m
 
 Lastly, for the sake of consistancy, I will only be compiling my favorite homebrew which works on both Wii and vWii. Sorry, Priiloader!
 
-### Some YAWMM Mod
+## Some YAWMM Mod
 
 This homebrew is probably the best WAD manager. There's other ones out there like Wii Mod Lite or WAD Manager, but this one is optimized for vWii support, and it's also open-source!
 
@@ -22,7 +22,7 @@ Check out the [GitHub page](https://github.com/FIX94/Some-YAWMM-Mod) for the sou
 
 ![A screenshot showcasing Some YAWMM Mod.](../assets/images/posts/essential-wii-vwii-homebrew/some_yawmm_mod.png)
 
-### USB Loader GX
+## USB Loader GX
 
 This homebrew is essentially the definitive game loader for Wii and vWii. It allows loading for all of your installed channels like the Wii Menu, but it even allows you to load backup copies of your Wii and GameCube games!
 
@@ -32,7 +32,7 @@ Check out the [SourceForge page](https://sourceforge.net/projects/usbloadergx) f
 
 ![A screenshot showcasing USB Loader GX.](../assets/images/posts/essential-wii-vwii-homebrew/usb_loader_gx.png)
 
-### WiiMC
+## WiiMC
 
 The Wii was originally going to be much more than a gaming console. There was meant to even be support for DVD playback! The hardware makes it perfect for a media center, which WiiMC strives to do.
 

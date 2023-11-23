@@ -2,7 +2,7 @@
 layout: posts
 ---
 
-## The Downgrade of Doom
+# The Downgrade of Doom
 
 Before you continue reading, do **not** take anything I outline in this post lightly!
 
@@ -14,7 +14,7 @@ When I talk about downgrading on Wii U, I think back to a few years ago when peo
 
 It seems silly to the ordinary hacker to want to downgrade. On the contrary, I am very interested in weird and unusual things like this.
 
-### Inspiration for This Stuff
+## Inspiration for This Stuff
 
 I tend to experiment more on the side of Nintendo Wii and vWii stuff now, but that isn't to say I've had my fair share of fun on the Wii U side. I happened to stumble upon that video about the Internet Browser a few days before my endeavors.
 
@@ -28,7 +28,7 @@ The issue with that video is there was no real explanation. A lot of people were
 
 Despite the beef that they have with me for whatever reason, I must give credit that Quick Bell Hacker is the first person I know of to successfully downgrade their Wii U Menu. However, I don't think it was fair for so many people to be left confused the way that video did, so I got together with two of my best friends to replicate it.
 
-### Time for the Main Event
+## Time for the Main Event
 
 I teamed up with [Lazr1026](https://github.com/Lazr1026) and [GaryOderNichts](https://github.com/GaryOderNichts), both of whom I'm very thankful to call friends. In Lazr's own words, we're The Bad Time Trio!
 
@@ -116,7 +116,7 @@ In order to revert this downgrade, there are two ways.
 * The reliable method, through the System Updater if you can make it detect an update (downgrade the VersionData title).
 * The manual method, installing the latest packages of every title you downgraded (which should be much easier to do).
 
-### What This All Means
+## What This All Means
 
 This means absolutely nothing, aside from the fact that it's possible. If you'd like to re-experience a bit of nostalgia like I wanted to, this would probably be a bit of fun. Just keep in mind that there's almost zero pros and very many cons when considering doing this.
 
