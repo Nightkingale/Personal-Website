@@ -23,9 +23,6 @@ A section of posts about the best video game console, the Wii U, as well as my m
 * [The Downgrade of Doom](../posts/the-downgrade-of-doom) (11/08/2022)
 * The details of my experience as one of the first to downgrade a Wii U's firmware.
 
-* [Essential Wii/vWii Homebrew](../posts/essential-wii-vwii-homebrew) (10/29/2022)
-* A short list outlining awesome homebrew for a modified Wii console or vWii mode.
-
 ## Fun Facts
 
 * I like dinosaurs and birds. Dinosaurs are great, birds are great. I'm very sure Saint Mercatør would agree with me. He's smart and musically talented, just like me.
