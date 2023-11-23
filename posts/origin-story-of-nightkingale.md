@@ -46,7 +46,7 @@ I originally wanted to release this project as my debut album on my 18th birthda
 
 ## The Actual Beginning
 
-By this point, I originally planned to release only three songs and call it quits. These were "V-Bucks for Some Skins," "Wii U USB Helper," and one more brand new track I would write, which eventually became "Well Shit, What a Vibe."
+By this point, I originally planned to release only three songs and call it quits. These were "V-Bucks for Some Skins," "Wii U USB Helper," and one more brand new track I would write, which eventually became "Well Shit, What a Vibe." I've always called these three the original *Meme Trilogy*.
 
 ### V-Bucks for Some Skins
 > We like Fortnite, yes, we like Fortnite. (01/03/2023)
@@ -81,7 +81,9 @@ I try to connect a lot of my meme raps together, and even though I didn't plan o
 
 For example, the idea in this song is that the person bought drugs (dubbed M&Ms on the track) from an unknown dealer and manages to get high off them. In the *Heavenly Night* album, I reveal that the dealer is none other than El Chapo. There are some more vague references between tracks, but this one is probably one of the most obvious ones.
 
-After this track released in March 2023, I announced I was finished making tracks. However, I had amazing support on all three of the tracks. After some time away from writing songs, I began to plan my return.
+I also originally tried to sample a Poison Control Center PSA for the beat in this track. However, I wasn't able to get it cleared, so I had to scrap that idea.
+
+After this track released in March 2023 though, I announced I was finished making tracks. However, I had amazing support on all three of the tracks. After some time away from writing songs, I began to plan my return.
 
 ![The promotional art for the release of "Well Shit, What a Vibe."](../assets/images/posts/origin-story-of-nightkingale/well_shit_what_a_vibe.png)
 
