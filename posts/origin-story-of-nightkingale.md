@@ -14,7 +14,7 @@ It all started back on Christmas Day of 2021. As most know, I used to be heavily
 
 You already know, I had to get to work on that! Three hours later, I came up with the very first iteration of the USB Helper rap song.
 
-![A screenshot of the first USB Helper lyrics.](../assets/images/posts/origin-story-of-nightkingale/usb_helper_first_draft.png)
+![A screenshot of the first "USB Helper" lyrics.](../assets/images/posts/origin-story-of-nightkingale/usb_helper_first_draft.png)
 
 That was it for a long while, and I never did much with these lyrics afterwards... until sometime in late May 2022, where I began to write more joke songs.
 
@@ -40,7 +40,7 @@ After that, sometime that October, I decided to move on to my next music related
 
 ![The tracklist for the scrapped Beginning of the End album.](../assets/images/posts/origin-story-of-nightkingale/beginning_of_the_end.png)
 
-You'll notice that "V-Bucks for Some Skins," "Wii U USB Helper," "Fuego, No Hielo", and "Lost Without Trust" all are here! A lot of these tracks I've released have been planned ever since the beginning, and are still gradually being released, even with the *Heavenly Night* album!
+You'll notice that "V-Bucks for Some Skins," "Wii U USB Helper," "Fuego, No Hielo," and "Lost Without Trust" all are here! A lot of these tracks I've released have been planned ever since the beginning, and are still gradually being released, even with the *Heavenly Night* album!
 
 I originally wanted to release this project as my debut album on my 18th birthday (being January 3rd, 2023). Ultimately, time constraints caught up to me, and I quickly grew tired of working on this project. For now, I scrapped every single track in this album, except for one... Take a guess!
 
@@ -51,7 +51,7 @@ By this point, I originally planned to release only three songs and call it quit
 ### V-Bucks for Some Skins
 > We like Fortnite, yes, we like Fortnite. (01/03/2023)
 
-The sole survivor of the great *Beginning of the End* cut for a long while. This was actually one of the final tracks I recorded for the scrapped album, drafted sometime back in November 2022.
+This was the sole survivor of the great *Beginning of the End* cut for a long while. This was actually one of the final tracks I recorded for the scrapped album, drafted sometime back in November 2022.
 
 Back then, I had originally wanted to call it "Fortnite Skins," but I renamed it to a phrase that actually appeeared in the song.
 
