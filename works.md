@@ -57,7 +57,7 @@ A section of links to each of my released meme rap songs.
     * [Craft a Hoe (feat. Lazr1026)](https://soundcloud.com/nightkingale/craft-a-hoe?in=nightkingale/sets/heavenly-night)
     * [Stole Your Lass](https://soundcloud.com/nightkingale/stole-your-lass?in=nightkingale/sets/heavenly-night)
     * [Fuego, No Hielo](https://soundcloud.com/nightkingale/fuego-no-hielo?in=nightkingale/sets/heavenly-night)
-    * [Counting My Bands](https://soundcloud.com/nightkingale/counting-my-bands?in=nightkingale/sets/heavenly-night) (early dropping 12/06/2023)
+    * [Counting My Bands](https://soundcloud.com/nightkingale/counting-my-bands?in=nightkingale/sets/heavenly-night)
     * [Lost Without Trust](https://soundcloud.com/nightkingale/lost-without-trust?in=nightkingale/sets/heavenly-night) (early dropping 12/20/2023)
     * [Pretend to Be Me](https://soundcloud.com/nightkingale/pretend-to-be-me?in=nightkingale/sets/heavenly-night) (available on official release)
     
