@@ -10,7 +10,7 @@ If you want to support my music or Wii U antics, this is the place for you!
 
 Watch "Heavenly Night - A Special Video Message" on YouTube on January 2nd, 2024 for a very special announcement!
 
-{% include youtube_integration.html id="fjW8NK7kXCU" %}
+{% include youtube_integration.html id="MmVP08juTLE" %}
 
 ## Other Links
 
