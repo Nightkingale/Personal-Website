@@ -45,8 +45,8 @@
           <a href="../"><b>About</b></a> |
           <a href="../works">Works</a> |
           <a href="../posts">Posts</a> |
-          <a href="https://discord.gg/mYjeaZQ">Discord</a> |
-          <a href="https://paypal.me/Nightkingale">Donate</a>
+          <a href="../store">Store</a> |
+          <a href="https://discord.gg/mYjeaZQ">Discord</a>
         </p>
         <div class="banner">
           <img src="https://t2.genius.com/unsafe/340x340/https%3A%2F%2Fimages.genius.com%2Ff2943add0155d2355d6fa7fc9fb2c7f4.869x869x1.jpg" alt="Album Cover" style="float: left; margin-right: 20px; width: 80px; height: 80px;">
@@ -56,6 +56,24 @@
             My first ever album is coming soon! 01/03/2024
             <br>
             <a href="https://push.fm/fl/hn">Preview the Streaming Release</a> or <a href="https://soundcloud.com/nightkingale/sets/heavenly-night">Listen to Early Drops</a>
+            <div id="video-container" style="display: none;">
+              {% include youtube_integration.html id="fjW8NK7kXCU" %}
+            </div>
+            <button id="expand-button" style="background-color: transparent; color: #93bd20; border: none; font-size: 12px;">Click to Expand Video Message</button>
+            <script>
+              var videoContainer = document.getElementById("video-container");
+              var expandButton = document.getElementById("expand-button");
+
+              expandButton.addEventListener("click", function() {
+                if (videoContainer.style.display === "none") {
+                  videoContainer.style.display = "block";
+                  expandButton.textContent = "Click to Collapse Video Message";
+                } else {
+                  videoContainer.style.display = "none";
+                  expandButton.textContent = "Click to Expand Video Message";
+                }
+              });
+            </script>
           </p>
         </div>
         <hr class="header">
