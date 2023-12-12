@@ -12,6 +12,9 @@ A section of posts about the best video game console, the Wii U, as well as my m
 
 ### Meme Rap Posts
 
+* [Nightkingale's Heavenly Era](../posts/nightkingales-heavenly-era) (12/11/2023)
+* How everything went down after I released my first three singles.
+
 * [Origin Story of Nightkingale](../posts/origin-story-of-nightkingale) (11/22/2023)
 * The tale about how all the Nightkingale meme raps came to fruition.
 
