@@ -10,24 +10,24 @@ A comprehensive list of both my coding-related projects, as well as my music.
 
 A section of links to projects related to me, besides the website.
 
-* [Button Break](https://github.com/Nightkingale/Button-Break)
-* A game that allows the user to test the functionality of a Wii U GamePad. This is a proof-of-concept which utilizes various libraries specific to the Wii U to create a very simple game.
-
-* [Coffee Reading](https://github.com/Nightkingale/Coffee-Reading)
-* A command-line tool for breaking down and reading values from a Wii U OTP or SEEPROM. This allows the viewing and saving of keys that have been programmed to a specific Wii U.
-
 * [Raichu](https://github.com/Nightkingale/Raichu) 
 * A utility Discord bot that allows for additional functionality on my communications server, Nincord. It is updated infrequently, but could theoretically be used as a chatbot or to connect to online services.
 
 * [Wii U Time Sync](https://github.com/Nightkingale/Wii-U-Time-Sync)
 * A plugin that synchronizes a Wii U's clock to the Internet, similar to NTP features found on modern devices. This utilizes the plugin system found in the Aroma environment in order to set the time fetched from the Internet.
 
-* [WUHB Packager](https://github.com/Nightkingale/WUHB-Packager)
-* A homebrew packager for use with the Wii U's latest environment, Aroma. It serves as wrapper to wuhbtool, and has the ultimate goal of helping developers migrate their old applications to the latest format. 
-
 ## Other Projects
 
-A section of links to other projects I've worked on within my teams.
+A section of links to other projects I've worked on. These are either collaborations I've been involved in, or my now unmaintained works.
+
+* [Button Break](https://github.com/Nightkingale/Button-Break)
+* A game that allows the user to test the functionality of a Wii U GamePad. This is a proof-of-concept which utilizes various libraries specific to the Wii U to create a very simple game.
+
+* [Coffee Reading](https://github.com/Nightkingale/Coffee-Reading)
+* A command-line tool for breaking down and reading values from a Wii U OTP or SEEPROM. This allows the viewing and saving of keys that have been programmed to a specific Wii U.
+
+* [WUHB Packager](https://github.com/Nightkingale/WUHB-Packager)
+* A homebrew packager for use with the Wii U's latest environment, Aroma. It serves as wrapper to wuhbtool, and has the ultimate goal of helping developers migrate their old applications to the latest format. 
 
 * [BrowseDNS](https://browsedns.net/) (as part of ForTheUsers)
 * A forum website adapted to work for various video game consoles.
