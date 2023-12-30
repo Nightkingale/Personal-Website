@@ -6,7 +6,7 @@ layout: works
 
 A comprehensive list of both my coding-related projects, as well as my music.
 
-## Personal Projects
+## Projects
 
 A section of links to projects related to me, besides the website.
 
@@ -15,19 +15,6 @@ A section of links to projects related to me, besides the website.
 
 * [Wii U Time Sync](https://github.com/Nightkingale/Wii-U-Time-Sync)
 * A plugin that synchronizes a Wii U's clock to the Internet, similar to NTP features found on modern devices. This utilizes the plugin system found in the Aroma environment in order to set the time fetched from the Internet.
-
-## Other Projects
-
-A section of links to other projects I've worked on. These are either collaborations I've been involved in, or my now unmaintained works.
-
-* [Button Break](https://github.com/Nightkingale/Button-Break)
-* A game that allows the user to test the functionality of a Wii U GamePad. This is a proof-of-concept which utilizes various libraries specific to the Wii U to create a very simple game.
-
-* [Coffee Reading](https://github.com/Nightkingale/Coffee-Reading)
-* A command-line tool for breaking down and reading values from a Wii U OTP or SEEPROM. This allows the viewing and saving of keys that have been programmed to a specific Wii U.
-
-* [WUHB Packager](https://github.com/Nightkingale/WUHB-Packager)
-* A homebrew packager for use with the Wii U's latest environment, Aroma. It serves as wrapper to wuhbtool, and has the ultimate goal of helping developers migrate their old applications to the latest format. 
 
 * [BrowseDNS](https://browsedns.net/) (as part of ForTheUsers)
 * A forum website adapted to work for various video game consoles.
@@ -44,34 +31,34 @@ A section of links to each of my released meme rap songs.
 
 ### Generation 2, The Next Generation
 
-* More information coming alongside the Heavenly Night release!
-* ??? (coming soon)
+* [To the Throwbacks](https://nightkingale.bandcamp.com/merch) (March 2024, single)
+* Farewell to the old meme songs, onward to new.
+* **A limited-time exclusive on the *Heavenly Night* physical release.**
 
 ### Generation 1, Meme Trilogy Deluxe
 
-* [Heavenly Night](https://push.fm/fl/hn) (01/03/2024)
+* [Heavenly Night](https://push.fm/fl/hn) (01/03/2024, album)
 * Scrapped singles and new tracks! My insane writing in one package.
-* Check out my SoundCloud every two weeks for an early drop, ahead of release!
-* Featuring a total of seven tracks, stay tuned for announcements:
+* Featuring a total of seven tracks:
     * [Heavenly Night](https://soundcloud.com/nightkingale/heavenly-night?in=nightkingale/sets/heavenly-night)
     * [Craft a Hoe (feat. Lazr1026)](https://soundcloud.com/nightkingale/craft-a-hoe?in=nightkingale/sets/heavenly-night)
     * [Stole Your Lass](https://soundcloud.com/nightkingale/stole-your-lass?in=nightkingale/sets/heavenly-night)
     * [Fuego, No Hielo](https://soundcloud.com/nightkingale/fuego-no-hielo?in=nightkingale/sets/heavenly-night)
     * [Counting My Bands](https://soundcloud.com/nightkingale/counting-my-bands?in=nightkingale/sets/heavenly-night)
-    * [Lost Without Trust](https://soundcloud.com/nightkingale/lost-without-trust?in=nightkingale/sets/heavenly-night) (early dropping 12/20/2023)
-    * [Pretend to Be Me](https://soundcloud.com/nightkingale/pretend-to-be-me?in=nightkingale/sets/heavenly-night) (available on official release)
-    
-* [Shopping for Free](https://push.fm/fl/sff) (07/19/2023)
+    * [Lost Without Trust](https://soundcloud.com/nightkingale/lost-without-trust?in=nightkingale/sets/heavenly-night)
+    * [Pretend to Be Me](https://soundcloud.com/nightkingale/pretend-to-be-me?in=nightkingale/sets/heavenly-night)
+
+* [Shopping for Free](https://push.fm/fl/sff) (07/19/2023, single)
 * Another fun diss track on Nintendo, featuring Lazr1026.
 
-* [I'm on My Tractor](https://push.fm/fl/iomt) (06/28/2023)
+* [I'm on My Tractor](https://push.fm/fl/iomt) (06/28/2023, single)
 * My return to meme rapping, including tractors and velociraptors.
 
-* [Well Shit, What a Vibe](https://push.fm/fl/wswav) (03/02/2023)
+* [Well Shit, What a Vibe](https://push.fm/fl/wswav) (03/02/2023, single)
 * A song about vibing, dolphins, and a whole lot of randomness.
 
-* [Wii U USB Helper](https://push.fm/fl/wuub) (02/04/2023)
+* [Wii U USB Helper](https://push.fm/fl/wuub) (02/04/2023, single)
 * My most popular song, about the piracy tool of the same name.
 
-* [V-Bucks for Some Skins](https://push.fm/fl/vbfss) (01/03/2023)
+* [V-Bucks for Some Skins](https://push.fm/fl/vbfss) (01/03/2023, single)
 * My song about being addicted to Fortnite and purchasing V-Bucks.
