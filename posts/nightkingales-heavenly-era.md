@@ -101,6 +101,6 @@ So far, the early drops have been my best performing tracks, so thank you everyo
 
 If you made it this far, I'll let you in on a little secret. My next single is going to be called "To the Throwbacks," and will release after the album, sometime early next year. I have special plans for it, but you'll be able to hear about that and more on January 2nd, 2024, during the *Heavenly Night* video message!
 
-{% include youtube_integration.html id="MmVP08juTLE" %}
+{% include youtube_integration.html id="qy1RjU4oLF0" %}
 
 Thanks for reading this! I hope you enjoy me discussing random things about all these songs, and maybe I'll even make another post for the next few songs eventually! For now, I hope you're at least somewhat intrigued by this album. I wanted the greatest first anniversary gift of my music career (and my own greatest birthday gift) possible!
