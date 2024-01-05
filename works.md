@@ -35,13 +35,16 @@ A section of links to projects related to me, besides the website.
 
 A section of links to each of my released meme rap songs.
 
-### Generation 2, The Next Generation
+### Generation 2, The Bootleg Era
 
-* [To the Throwbacks](https://nightkingale.bandcamp.com/merch) (March 2024, single)
+* **??? ???????????** (02/07/2024, single)
+* Nusspli is the best piracy tool of all time.
+
+* [To the Throwbacks](https://nightkingale.bandcamp.com/merch) (02/??/2024, single)
 * Farewell to the old meme songs, onward to new.
 * **A limited-time exclusive on the *Heavenly Night* physical release.**
 
-### Generation 1, Meme Trilogy Deluxe
+### Generation 1, The Heavenly Era
 
 * [Heavenly Night](https://push.fm/fl/hn) (01/03/2024, album)
 * Scrapped singles and new tracks! My insane writing in one package.
