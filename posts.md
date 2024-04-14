@@ -10,7 +10,7 @@ Want some random stuff to read to check out in your spare time? Here you go!
 
 A section of posts about the best video game console, the Wii U, as well as my meme raps.
 
-### Meme Rap Posts
+### Rapping Posts
 
 * [Nightkingale's Heavenly Era](../posts/nightkingales-heavenly-era) (12/11/2023)
 * How everything went down after I released my first three singles.
