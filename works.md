@@ -14,7 +14,7 @@ A section of links to projects related to me, besides the website.
 * A command-line tool for breaking down and reading values from a Wii U OTP or SEEPROM. This allows the viewing and saving of keys that have been programmed to a specific Wii U.
 
 * [Raichu](https://github.com/Nightkingale/Raichu) 
-* A utility Discord bot that allows for additional functionality on my communications server, Nincord. It is updated infrequently, but could theoretically be used as a chatbot or to connect to online services.
+* A utility Discord bot that allows for additional functionality on my communications server, Nightkingale Studios. It is updated infrequently, but could theoretically be used as a chatbot or to connect to online services.
 
 * [Wii U Account Swap](https://github.com/Nightkingale/Wii-U-Account-Swap)
 * A tool that helps manage a Wii U user's `account.dat` file. This allows them to backup and restore Nintendo Network ID and Pretendo Network ID accounts. It also allows for unlinking a Network ID, turning it into a local-only user.
