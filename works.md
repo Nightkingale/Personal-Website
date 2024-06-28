@@ -40,9 +40,10 @@ A section of links to each of my released meme rap songs.
 
 ### Generation 2, The Bootleg Era
 
-* Bootleg Beats (??/??/????, album)
+* **Bootleg Beats** (??/??/2025, album)
 * A follow-up to Heavenly Night! Piracy needs to be saved.
 * Tracklist is coming soon!
+* Look out for waterfall releases exclusively on SoundCloud.
 
 * [To the Throwbacks](https://nightkingale.bandcamp.com/merch) (02/04/2024, single)
 * Farewell to the old meme songs, onward to new.
