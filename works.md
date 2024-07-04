@@ -42,7 +42,21 @@ A section of links to each of my released meme rap songs.
 
 * **Bootleg Beats** (??/??/2025, album)
 * A follow-up to Heavenly Night! Piracy needs to be saved.
-* Tracklist is coming soon!
+* Featuring a total of fifteen tracks:
+    * ???
+    * ???
+    * ???
+    * ???
+    * ???
+    * ???
+    * ???
+    * ???
+    * ???
+    * ???
+    * ???
+    * ???
+    * ???
+    * [Heavenly Medley](https://soundcloud.com/nightkingale/heavenly-medley)
 * Look out for waterfall releases exclusively on SoundCloud.
 
 * [To the Throwbacks](https://nightkingale.bandcamp.com/merch) (02/04/2024, single)
