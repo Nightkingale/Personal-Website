@@ -42,20 +42,8 @@ A section of links to each of my released meme rap songs.
 
 * **Bootleg Beats** (??/??/2025, album)
 * A follow-up to Heavenly Night! Piracy needs to be saved.
-* Featuring a total of fifteen tracks:
-    * ???
-    * ???
-    * ???
-    * ???
-    * ???
-    * ???
-    * ???
-    * ???
-    * ???
-    * ???
-    * ???
-    * ???
-    * ???
+* Featuring currently revealed tracks like:
+    * [Just Bought a Tesla](https://soundcloud.com/nightkingale/just-bought-a-tesla)
     * [Heavenly Medley](https://soundcloud.com/nightkingale/heavenly-medley)
 * Look out for waterfall releases exclusively on SoundCloud.
 
