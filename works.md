@@ -42,10 +42,10 @@ A section of links to each of my released meme rap songs.
 
 * **Bootleg Beats** (??/??/2025, album)
 * A follow-up to Heavenly Night! Piracy needs to be saved.
+* **Look out for waterfall releases exclusively on SoundCloud.**
 * Featuring currently revealed tracks like:
     * [Just Bought a Tesla](https://soundcloud.com/nightkingale/just-bought-a-tesla)
     * [Heavenly Medley](https://soundcloud.com/nightkingale/heavenly-medley)
-* Look out for waterfall releases exclusively on SoundCloud.
 
 * [To the Throwbacks](https://nightkingale.bandcamp.com/merch) (02/04/2024, single)
 * Farewell to the old meme songs, onward to new.
