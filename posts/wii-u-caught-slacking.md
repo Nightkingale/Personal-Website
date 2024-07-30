@@ -1,5 +1,7 @@
 ---
 layout: posts
+title: Wii U Caught Slacking
+description: A short story describing how I managed to brick a Wii U in an unusual way.
 ---
 
 # Wii U Caught Slacking

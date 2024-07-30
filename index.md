@@ -1,5 +1,7 @@
 ---
 layout: home
+title: Personal Website
+description: I'm a developer, meme rapper, and gamer. All at the same time!
 ---
 
 In summary, this website is a small project of mine which will have a bunch of random information I deem fun enough to have on here.

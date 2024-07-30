@@ -1,5 +1,7 @@
 ---
 layout: posts
+title: Origin Story of Nightkingale
+description: The tale about how all the Nightkingale meme raps came to fruition.
 ---
 
 # Origin Story of Nightkingale

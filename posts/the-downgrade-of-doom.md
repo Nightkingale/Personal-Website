@@ -1,5 +1,7 @@
 ---
 layout: posts
+title: The Downgrade of Doom
+description: The details of my experience as one of the first to downgrade a Wii U’s firmware.
 ---
 
 # The Downgrade of Doom

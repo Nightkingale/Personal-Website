@@ -1,5 +1,7 @@
 ---
 layout: posts
+title: Nightkingale's Heavenly Era
+description: How everything went down after I released my first three singles.
 ---
 
 # Nightkingale's Heavenly Era

@@ -1,5 +1,7 @@
 ---
 layout: works
+title: Works Section
+description: I'm a developer, meme rapper, and gamer. All at the same time!
 ---
 
 # Works Section
