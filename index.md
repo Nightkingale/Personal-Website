@@ -6,7 +6,7 @@ description: I'm a developer, meme rapper, and gamer. All at the same time!
 
 In summary, this website is a small project of mine which will have a bunch of random information I deem fun enough to have on here.
 
-In the [Works](../works) part of the website, I have a list of all of the projects I've been involved with throughout my time as a programmer. I also included my discography on that page, just for fun.
+In the [Works](../works) part of the website, I have a list of all of the projects I've been involved with throughout my time as a developer.
 
 In the [Posts](../posts) part of the website, I'll be writing blog posts about whatever I feel like. I wouldn't expect posts too often, but I'll try my best to make each one an interesting read.
 
@@ -31,12 +31,12 @@ Nintendo obviously doesn't intend for people to mod their consoles, but I only s
 ![A fake Nintendo Wii U brick screen I made back when the pandemic started.](./assets/images/about/funny_brick.png)
 
 
-Along my journey though, I met great friends who still support me today, like [GaryOderNichts](https://github.com/GaryOderNichts), [Lazr1026](https://github.com/Lazr1026), and [NicoAICP](https://github.com/NicoAICP). I also have a Discord server filled with even more amazing people, and I'm so happy to have met each and every one of them.
+Along my journey though, I met great online friends who still support me today, like [GaryOderNichts](https://github.com/GaryOderNichts), [Lazr1026](https://github.com/Lazr1026), and [NicoAICP](https://github.com/NicoAICP). Together, we're the Bad Time Quartet! I also have a Discord server filled with even more amazing people, and I'm so happy to have met each and every one of them.
 
 ## Current Work
 
 Nowadays, I don't really involve myself in the homebrew scene as much as I used to. A lot of people know me for maintaining the [Homebrew App Store](https://github.com/fortheusers/hb-appstore) still, and a few core homebrew projects, but outside of a bit of experimentation with the Wii U and Wii sometimes, that's largely it for me anymore.
 
-I am currently pursuing a degree in computer information systems (with a concentration of cyber security) at Central New Mexico Community College. I was actually really inspired by the homebrew scene (and especially my friend, Gary) to go this path.
+I am currently pursuing a degree in computer information systems (with a concentration of cyber security) at Central New Mexico Community College. I was actually really inspired by the homebrew scene (and especially the one and only, Gary) to go this path.
 
-On the side, I'm a meme rapper (if you couldn't tell yet) and a school teacher, which is definitely an interesting mix of things to be. I couldn't ask for a better life though!
+Alongside all of that, yes, I also make music. None of it is representative of my professionalism, it's quite unserious. It's all just a gag that I've grown to embrace.
