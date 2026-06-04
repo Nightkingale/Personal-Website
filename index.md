@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Personal Website
-description: I'm a developer, meme rapper, and gamer. All at the same time!
+description: Everything around me is broken, can you please fix it?
 ---
 
 In summary, this website is a small project of mine which will have a bunch of random information I deem fun enough to have on here.
@@ -38,4 +38,4 @@ Nowadays, I don't really involve myself in the homebrew scene as much as I used 
 
 I am a computer information systems graduate (with concentration in cyber security) from Central New Mexico Community College. I was actually really inspired by the homebrew scene (and especially the one and only, Gary) to go this path. I've since hopped into the IT field as a technician in the school system.
 
-Alongside all of that, yes, I also make music. None of it is representative of my professionalism, it's quite unserious. It's all just a gag that I've grown to embrace.
+Alongside all of that, yes, I also have music. None of it is representative of my professionalism, it's quite unserious. It's all just a gag that I've grown to embrace.

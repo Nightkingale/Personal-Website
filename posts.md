@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Posts Section
-description: I'm a developer, meme rapper, and gamer. All at the same time!
+description: Everything around me is broken, can you please fix it?
 ---
 
 # Posts Section
