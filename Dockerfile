@@ -11,6 +11,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 WORKDIR /app
 
+COPY Gemfile Gemfile.lock /app/
+RUN bundle install
+
 COPY . /app
 
-CMD ["/bin/sh", "-lc", "bundle install && bundle exec jekyll build --source /app --destination /build"]
+CMD ["/bin/sh", "-lc", "bundle exec jekyll build --source /app --destination /build"]
