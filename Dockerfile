@@ -9,6 +9,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     git \
     && rm -rf /var/lib/apt/lists/*
 
-WORKDIR /data
+WORKDIR /app
 
-CMD ["/bin/sh", "-lc", "bundle install && bundle exec jekyll build --source /data --destination /build"]
+COPY . /app
+
+CMD ["/bin/sh", "-lc", "bundle install && bundle exec jekyll build --source /app --destination /build"]

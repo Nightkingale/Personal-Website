@@ -2,3 +2,12 @@ title: Nightkingale
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
+
+exclude:
+  - Dockerfile
+  - .dockerignore
+  - Gemfile
+  - nginx
+  - script
+  - .github
+  - README.md
