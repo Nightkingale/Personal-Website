@@ -5,6 +5,3 @@
 # Generation
 /_site
 *.gem
-
-# Dependencies
-Gemfile.lock
