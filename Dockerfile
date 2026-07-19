@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 WORKDIR /app
 
-COPY Gemfile Gemfile.lock /app/
+COPY Gemfile Gemfile.lock jekyll-theme-midnight.gemspec /app/
 RUN bundle install
 
 COPY . /app
