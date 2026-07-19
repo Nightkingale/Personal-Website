@@ -1,0 +1,20 @@
+# Optimization
+/.jekyll-cache
+/.sass-cache
+/.bundle
+
+# Generation
+/build
+/_site
+*.gem
+
+# Dependencies
+Gemfile.lock
+
+# Housekeeping
+.git
+.gitignore
+.dockerignore
+.DS_Store
+Thumbs.db
+*.log
